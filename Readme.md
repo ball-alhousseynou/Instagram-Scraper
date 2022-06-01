@@ -1,10 +1,10 @@
 # Instagram Scraper
 
-![Alt text](image/insta.jpg?raw=true "insta")
+<img src="image/insta.jpg" width="1100"/>
 
 ## Description
 
-This repository contains all the source code that is used to retrieve data from **Instagram**.
+This repository contains all the source code that is used to retrieve data from **Instagram**. For each Instagram page, we will collect the followers, following, publications and biography.
 
 
 ## Installation
